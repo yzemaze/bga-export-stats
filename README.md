@@ -36,3 +36,7 @@ The first 2 records contain overall player stats:
     - Timeouts
     - Total recent matches
     - Days since last online
+
+## [CarcassonneEloScraper.js](CarcassonneEloScraper.js)
+
+Slim version of PlayerStats.js limited to Carcassonne. Input: list of names (not IDs!), output: name;Elo-rating;rank;matches;wins
